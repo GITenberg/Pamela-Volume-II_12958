@@ -1,0 +1,31 @@
+_repo: Pamela-Volume-II_12958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Virtue -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Women household employees -- Fiction'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: Pamela, Volume II
+url: http://www.gutenberg.org/ebooks/12958
